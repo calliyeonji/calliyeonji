@@ -1,17 +1,22 @@
-<div align=center>
+<div>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcalliyeonji&count_bg=%23C99EEF&title_bg=%23CCCCCC&icon=smugmug.svg&icon_color=%23ffffff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-<div align=center>
+<div>
   안녕하세요 👋
+  
   신입 iOS 개발자로 취업 준비를 하고 있는 연두부 입니다.
+  
   email: yeonji23@outlook.com
+  
   notion: 
+  
   blog: https://db-foot.tistory.com/
+  
   입니다. 감사합니다.
-</div
+</div>
 
 <!--
 **calliyeonji/calliyeonji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
