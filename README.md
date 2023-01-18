@@ -5,7 +5,12 @@
 </div>
 
 <div align=center>
-  ### Hi there 👋
+  안녕하세요 👋
+  신입 iOS 개발자로 취업 준비를 하고 있는 연두부 입니다.
+  email: yeonji23@outlook.com
+  notion: 
+  blog: https://db-foot.tistory.com/
+  입니다. 감사합니다.
 </div
 
 <!--
