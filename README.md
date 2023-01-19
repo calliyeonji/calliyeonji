@@ -11,7 +11,7 @@
   
   email: yeonji23@outlook.com
   
-  notion: 
+  notion: https://www.notion.so/14a6920f8b04429591b1048187ace620
   
   blog: https://db-foot.tistory.com/
   
