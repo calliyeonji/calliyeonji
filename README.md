@@ -7,7 +7,7 @@
 <div>
   안녕하세요 👋
   
-  신입 iOS 개발자로 취업 준비를 하고 있는 연두부 입니다.
+  신입 iOS 개발자로 취업 준비중인 연두부 입니다.
   
   email: yeonji23@outlook.com
   
