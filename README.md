@@ -15,7 +15,8 @@
   
   blog: https://db-foot.tistory.com/
   
-  입니다. 감사합니다.
+  감사합니다.
+  오늘도 행복한 코딩 하세요😄✨
 </div>
 
 <!--
