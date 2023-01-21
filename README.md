@@ -11,10 +11,10 @@
   
   <!-- email: yeonji23@outlook.com -->
   
-  <a target="_blank" href="yeonji23@outlook.com">
+  <a target="_blank" href="mailto:yeonji23@outlook.com">
     <img src="https://img.shields.io/badge/outlook email-fff?style=for-the-badge&logo=Microsoft Outlook&logoColor=0078D4">
   </a>
-  <a target="_blank" href="yeonji3127@gmail.com">
+  <a target="_blank" href="mailto:yeonji3127@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=EA4335">
   </a>
   <a target="_blank" href="https://www.notion.so/14a6920f8b04429591b1048187ace620">
