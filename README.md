@@ -11,14 +11,12 @@
   
   email: yeonji23@outlook.com
   
-<a href="https://www.notion.so/14a6920f8b04429591b1048187ace620" target="_blank">
-  <img src="https://img.shields.io/badge/이력서-fff?style=for-the-badge&logo=Notion&logoColor=000">
-</a>
-  
-  
-  notion: https://www.notion.so/14a6920f8b04429591b1048187ace620
-  
-  blog: https://db-foot.tistory.com/
+  <a href="https://www.notion.so/14a6920f8b04429591b1048187ace620" target="_blank">
+    <img src="https://img.shields.io/badge/notion 이력서-fff?style=for-the-badge&logo=Notion&logoColor=000">
+  </a>
+  <a href="https://db-foot.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory 블로그-fff?style=for-the-badge&logo=Tistory&logoColor=000">
+  </a>
   
   감사합니다. 오늘도 행복한 코딩 하세요😄✨
 </div>
