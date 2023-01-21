@@ -5,12 +5,18 @@
 </div>
 
 <div>
-  안녕하세요 👋
+  안녕하세요 👋🏻
   
   신입 iOS 개발자로 취업 준비 중인 연두부입니다.
   
-  email: yeonji23@outlook.com
+  <!-- email: yeonji23@outlook.com -->
   
+  <a target="_blank" href="yeonji23@outlook.com">
+    <img src="https://img.shields.io/badge/outlook email-fff?style=for-the-badge&logo=Microsoft Outlook&logoColor=0078D4">
+  </a>
+  <a target="_blank" href="yeonji3127@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=EA4335">
+  </a>
   <a target="_blank" href="https://www.notion.so/14a6920f8b04429591b1048187ace620">
     <img src="https://img.shields.io/badge/notion 이력서-fff?style=for-the-badge&logo=Notion&logoColor=000">
   </a>
@@ -18,7 +24,7 @@
     <img src="https://img.shields.io/badge/Tistory 블로그-fff?style=for-the-badge&logo=Tistory&logoColor=000">
   </a>
   
-  감사합니다. 오늘도 행복한 코딩 하세요😄✨
+  감사합니다. 오늘도 행복한 코딩 하세요 ☺✨
 </div>
 
 <!--
