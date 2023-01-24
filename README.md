@@ -1,19 +1,25 @@
 <div align="right">
-  <p>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcalliyeonji&count_bg=%23C99EEF&title_bg=%23CCCCCC&icon=smugmug.svg&icon_color=%23ffffff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  </p>
 </div>
 <div align="center">
   
-  <h3> Hello :) </h3>
-  안녕하세요 👋🏻
-  <br>
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=Hello%20👋🏻&fontSize=20&color=fff&fontColor=C19AE4)
+  
+  안녕하세요 :)
   신입 iOS 개발자로 취업 준비 중인 연두부입니다.
   <br><br>
+
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=👩🏻‍🔧Tech%20Stack&fontSize=20&color=fff&fontColor=C19AE4)
   
-  <h2> Contacts </h2>
+  ![iOS](https://img.shields.io/badge/-iOS-A7B1B6?logo=Apple&logoColor=fff) ![swift](https://img.shields.io/badge/-swift-F73D24?logo=swift&logoColor=fff)
+  
+  ![html5](https://img.shields.io/badge/-HTML-DC4A25?logo=html5&logoColor=fff) ![css3](https://img.shields.io/badge/-CSS-244BDD?logo=css3&logoColor=fff) ![javascript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=ECD718) ![jquery](https://img.shields.io/badge/-jQuery-fff?logo=jquery&logoColor=0964A7)
+  <br><br>
+  
+  # ![header](https://capsule-render.vercel.app/api?type=cylinder&height=25&section=header&text=📞Contacts&fontSize=20&color=fff&fontColor=C19AE4)
+  
   <p>
     <a target="_blank" href="mailto:yeonji23@outlook.com">
       <img src="https://img.shields.io/badge/outlook email-fff?style=for-the-badge&logo=Microsoft Outlook&logoColor=0078D4">
