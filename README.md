@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 그라데이션 효과 Hello! https://github.com/kyechan99/capsule-render 여기서 사용 가능 -->
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
   
   <!--   글자색 변경 가능한 헤더테그를 사용 (가운데 정렬) https://github.com/kyechan99/capsule-render 깃허브 참고 -->
   ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=Intro%20👋🏻&fontSize=20&color=fff&fontColor=C19AE4)
@@ -9,14 +9,14 @@
   <!--   인사말 -->
   안녕하세요 :)
   신입 iOS 개발자로 취업 준비 중인 연두부입니다.
-  <br><br>
+  <br>
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=👩🏻‍🔧Tech%20Stack&fontSize=20&color=fff&fontColor=C19AE4)
   
   ![iOS](https://img.shields.io/badge/-iOS-A7B1B6?logo=Apple&logoColor=fff) ![swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=fff)
   
   ![html5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![css3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![javascript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E) ![jquery](https://img.shields.io/badge/-jQuery-fff?logo=jquery&logoColor=0769AD)
-  <br><br>
+  <br>
   
   # ![header](https://capsule-render.vercel.app/api?type=cylinder&height=25&section=header&text=📞Contacts&fontSize=20&color=fff&fontColor=C19AE4)
   
@@ -35,7 +35,7 @@
       <img src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=EA4335">
     </a>
   </p>
-  <br><br>
+  <br>
   <!--   끝인사 -->
     ☺ 감사합니다. 오늘도 행복한 코딩 하세요.✨
   
