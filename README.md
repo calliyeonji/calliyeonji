@@ -20,6 +20,9 @@
   
   # ![header](https://capsule-render.vercel.app/api?type=cylinder&height=25&section=header&text=📞Contacts&fontSize=20&color=fff&fontColor=C19AE4)
   
+  <!--   그라데이션 구분선 -->
+  <!--      ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1) -->
+
   <!--   이력서, 블로그, outlook Email, Gmail 링크 -->
   <p>
     <a target="_blank" href="https://www.notion.so/14a6920f8b04429591b1048187ace620">
