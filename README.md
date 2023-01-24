@@ -1,9 +1,3 @@
-<div align="right">
-  <!--   히스토리 깃허브 방문자 수 확인 가능 (오른쪽 정렬) https://hits.seeyoufarm.com 여기서 커스텀 가능 -->
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcalliyeonji&count_bg=%23C99EEF&title_bg=%23CCCCCC&icon=smugmug.svg&icon_color=%23ffffff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
 <div align="center">
   
   <!-- 그라데이션 효과 Hello! https://github.com/kyechan99/capsule-render 여기서 사용 가능 -->
@@ -43,9 +37,14 @@
   </p>
   <br><br>
   <!--   끝인사 -->
-  <p>
     ☺ 감사합니다. 오늘도 행복한 코딩 하세요.✨
-  </p>
+  
+  <!--   히스토리 깃허브 방문자 수 확인 가능 (오른쪽 정렬) https://hits.seeyoufarm.com 여기서 커스텀 가능 -->
+  <div align="right">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcalliyeonji&count_bg=%23C99EEF&title_bg=%23CCCCCC&icon=smugmug.svg&icon_color=%23ffffff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
+  </div>
 </div>
 
 <!--
