@@ -1,12 +1,20 @@
-<div>
-  <div>
-    
-   ### 안녕하세요 👋🏻
-   ### 신입 iOS 개발자로 취업 준비 중인 연두부입니다.
-    
-  </div>
-  <!-- email: yeonji23@outlook.com -->
-  <div>
+<div align="right">
+  <p>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcalliyeonji&count_bg=%23C99EEF&title_bg=%23CCCCCC&icon=smugmug.svg&icon_color=%23ffffff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  </p>
+</div>
+<div align="center">
+  
+  <h3> Hello :) </h3>
+  안녕하세요 👋🏻
+  <br>
+  신입 iOS 개발자로 취업 준비 중인 연두부입니다.
+  <br><br>
+  
+  <h2> Contacts </h2>
+  <p>
     <a target="_blank" href="mailto:yeonji23@outlook.com">
       <img src="https://img.shields.io/badge/outlook email-fff?style=for-the-badge&logo=Microsoft Outlook&logoColor=0078D4">
     </a>
@@ -19,16 +27,12 @@
     <a target="_blank" href="https://db-foot.tistory.com">
       <img src="https://img.shields.io/badge/Tistory 블로그-fff?style=for-the-badge&logo=Tistory&logoColor=000">
     </a>
-  </div>
+  </p>
+  <br><br>
   <p>
-    감사합니다. 오늘도 행복한 코딩 하세요 ☺✨
+    ☺ 감사합니다. 오늘도 행복한 코딩 하세요.✨
   </p>
 </div>
-<p>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcalliyeonji&count_bg=%23C99EEF&title_bg=%23CCCCCC&icon=smugmug.svg&icon_color=%23ffffff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  </p>
 
 <!--
 **calliyeonji/calliyeonji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
