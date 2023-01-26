@@ -38,9 +38,7 @@
       <img src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=EA4335">
     </a>
   </p>
-  
   <br>
-  
   <!--   끝인사 -->
     ☺ 감사합니다. 오늘도 행복한 코딩 하세요.✨
   
