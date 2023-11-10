@@ -23,7 +23,7 @@
   <!--   그라데이션 구분선 -->
   <!--      ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1) -->
 
-  <!--   이력서, 블로그, outlook Email, Gmail 링크 -->
+  <!--   이력서, 블로그, outlook Email, Gmail 링크 --> 
   <p>
     <a target="_blank" href="https://www.notion.so/14a6920f8b04429591b1048187ace620">
       <img src="https://img.shields.io/badge/notion 이력서-fff?style=for-the-badge&logo=Notion&logoColor=000">
