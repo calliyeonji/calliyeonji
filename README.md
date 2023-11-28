@@ -8,7 +8,7 @@
   
   <!--   인사말 -->
   안녕하세요 :)
-  Java 개발자로 취업 준비 중인 연두부입니다.
+  Java 개발자로 공부 중인 연두부입니다.
   <br><br>
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=👩🏻‍🔧Tech%20Stack&fontSize=20&color=fff&fontColor=C19AE4)
@@ -25,9 +25,9 @@
 
   <!--   이력서, 블로그, outlook Email, Gmail 링크 --> 
   <p>
-    <a target="_blank" href="https://www.notion.so/14a6920f8b04429591b1048187ace620">
+<!--     <a target="_blank" href="https://www.notion.so/14a6920f8b04429591b1048187ace620">
       <img src="https://img.shields.io/badge/notion 이력서-fff?style=for-the-badge&logo=Notion&logoColor=000">
-    </a>
+    </a> -->
     <a target="_blank" href="https://db-foot.tistory.com">
       <img src="https://img.shields.io/badge/Tistory 블로그-fff?style=for-the-badge&logo=Tistory&logoColor=000">
     </a>
