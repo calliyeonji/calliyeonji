@@ -12,8 +12,10 @@
   <br><br>
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=👩🏻‍🔧Tech%20Stack&fontSize=20&color=fff&fontColor=C19AE4)
+
+  <!-- [iOS](https://img.shields.io/badge/-iOS-A7B1B6?logo=Apple&logoColor=fff) ![swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=fff) -->
   
-  ![iOS](https://img.shields.io/badge/-iOS-A7B1B6?logo=Apple&logoColor=fff) ![swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=fff) <img src="https://img.shields.io/badge/Java-E11F21?style=flat&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E11F21?style=flat&logo=OpenJDK&logoColor=white"/>
   
   ![html5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![css3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![javascript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E) ![jquery](https://img.shields.io/badge/-jQuery-fff?logo=jquery&logoColor=0769AD)
   
