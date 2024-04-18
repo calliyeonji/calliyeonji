@@ -7,7 +7,7 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=Intro%20👋🏻&fontSize=20&color=fff&fontColor=C19AE4)
   
   <!--   인사말 -->
-  안녕하세요 :)
+  안녕하세요 :) <br>
   Front-End Developer로 취업 준비중인 연두부입니다.
   <br><br>
 
